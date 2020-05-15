@@ -1,0 +1,17 @@
+{
+  "name": "Bootstrap4_Tutorial",
+  "homepage": "https://github.com/smilegse/Bootstrap4_Tutorial",
+  "authors": [
+    "Md. Abu Bakar Siddique <abms.siddique@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
